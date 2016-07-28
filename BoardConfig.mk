@@ -59,7 +59,7 @@ TARGET_SYSTEM_PROP := $(LOCAL_PATH)/system.prop
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/soc/11270000.usb3/musb-hdrc/gadget/lun%d/file
 
 # Kernel properties
-TARGET_PREBUILT_KERNEL := $(LOCAL_PATH)/prebuilts/kernel
+TARGET_PREBUILT_KERNEL := $(LOCAL_PATH)/prebuilts/zImage
 
 # TWRP
 BOARD_SUPPRESS_SECURE_ERASE := true
