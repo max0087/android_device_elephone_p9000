@@ -34,5 +34,5 @@ To build:
 
 lunch omni_p9000-userdebug
 
-make clean && make -j5
+make clean && brunch -j5 p9000
 ```
