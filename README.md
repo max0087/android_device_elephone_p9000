@@ -21,12 +21,40 @@ Front Camera | 8MP (OV)
 
 This branch is for building Twrp or Omni ROM (or Android Marshmallow 6.0 AOSP based roms) ROM.
 
+## Working:
+ * It is boots and hardware accelerated!
+ * WiFi
+ * GPS
+ * Vibration
+ * Audio
+ * Auto brightness
+ * Doze
+ * RAM and ROM
+ * Rotation
+ * All sensors
+ * NFC (Payments, pairing)
+ * Lazer autofocus
+ * Bluetooth
+ * Camera rear/front (Video and Photos)
+ * External SD
+ * RIL for SMS/Calls/Internet/Lte on 1 and 2 SIM
+ * MTP and Mass Storage mode
+ * Audio over Bluetooth
+ * Enforcing SELinux
+ * Fingerprint Scanner
+ * FM Radio
+
+## Not working (yet):
+ * Wi-Fi Tethering
+ * Hdr in camera app
+
 ## Thanks to:
  * CyanogenMod team
  * Wuxianlin
  * Xen0n
  * Leskal
  * JonnyXDA
+ * olegsvs
 
 To build: 
 ```
