@@ -17,14 +17,18 @@ Display | 5.5" 1920 x 1080 px
 Rear Camera | 13MP (Sony IMX258 Exmor RS), Dual LED Flash, Laser autofocus
 Front Camera | 8MP (OV)
 
-![Elephone P9000](http://www.pixic.ru/i/p0Y19177m022b1u5.png "Elephone P9000 in black")
+![Elephone P9000](http://www.elephonestore.com/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/e/l/elephone_p9000_grey_1_1.jpg "Elephone P9000 in black")
 
 This branch is for building Twrp or Omni ROM (or Android Marshmallow 6.0 AOSP based roms) ROM.
 
 ## Working:
  * It is boots and hardware accelerated!
  * WiFi
+ * Fast charging
+ * Offline charging
  * GPS
+ * AGPS
+ * ANT (Fitness trackers and etc)
  * Vibration
  * Audio
  * Auto brightness
@@ -34,12 +38,13 @@ This branch is for building Twrp or Omni ROM (or Android Marshmallow 6.0 AOSP ba
  * All sensors
  * NFC (Payments, pairing)
  * Lazer autofocus
+ * Flashlight (Statusbar and Camera)
  * Bluetooth
  * Camera rear/front (Video and Photos)
  * External SD
  * RIL for SMS/Calls/Internet/Lte on 1 and 2 SIM
  * MTP and Mass Storage mode
- * Audio over Bluetooth
+ * Audio over Bluetooth (Music and etc)
  * Enforcing SELinux
  * Fingerprint Scanner
  * FM Radio
@@ -51,10 +56,12 @@ This branch is for building Twrp or Omni ROM (or Android Marshmallow 6.0 AOSP ba
 ## Thanks to:
  * CyanogenMod team
  * Wuxianlin
+ * Ferhung
  * Xen0n
  * Leskal
  * JonnyXDA
  * olegsvs
+ * Visi0nary
 
 To build: 
 ```
