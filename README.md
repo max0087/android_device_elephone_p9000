@@ -1,4 +1,4 @@
-Elephone P9000 - CyanogenMod 13.0/AOSP
+Elephone P9000 - OmniROM/AOSP
 ==============
 
 This branch is for building Twrp or Omni ROM (or Android Marshmallow 6.0 AOSP based roms) ROM. For more information about building the ROM, read our [build manual](manual).
@@ -59,9 +59,11 @@ Front Camera | 8MP (OV)
  * SELinux enforcement
  * Fingerprint scanner
  * FM radio
+ * Wi-Fi tethering
 
 ### In progress:
- * Wi-Fi tethering
+ * Add HOME Button functional
+ * Fix flip case
 
 ### Thanks to:
  * CyanogenMod team
@@ -73,6 +75,7 @@ Front Camera | 8MP (OV)
  * olegsvs
  * Visi0nary
  * andyrichardson
+ * Team M.A.D
 
 To build: 
 ```
