@@ -20,5 +20,4 @@ ifeq ($(TARGET_DEVICE),p9000)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
-
 endif
